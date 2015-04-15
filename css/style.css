@@ -1,0 +1,38 @@
+
+body{
+	background: #EAF4AF;
+}
+#header{
+	width: 100%;
+	height: auto;
+	background: #888;
+	border-bottom: solid 1px #333;
+	position: relative;
+}
+
+#logo{
+	width: 200px;
+	height: 100px;
+}
+
+#ressources{
+	height: 50px;
+	margin: 25px 20px;
+	width: 500px;
+}
+
+#navbar{
+	position: relative;
+	min-height: 100%;
+	background: #89B264;
+	border-right:solid 1px #679042;
+}
+
+.linkLeft a{
+	color: black
+}
+
+#content{
+	background: red;
+	margin-top:20px;
+}
