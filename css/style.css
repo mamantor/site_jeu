@@ -46,11 +46,16 @@ body{
 	color:#fff;
 }
 
+.linkLeft{
+	list-style: none; /* enleve les puces */
+	padding:10px;
+}
 .linkLeft a{
-	color: black
+	color: #fff;
 }
 
 #content{
 	background: #CCC;
 	margin-top:20px;
 }
+
