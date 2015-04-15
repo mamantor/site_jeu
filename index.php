@@ -12,10 +12,9 @@
 <div id="main" class="row">
 	<?php include 'includes/menu_left.php'; ?>
 
-
 	<!-- Y'a que cette partie qui sera differente sur chaque page -->
 	<!-- on peut même lu dire de charger la page en fonction de l'adresse de l'url -->
-	<div id="content" class="span9">
+	<div id="content" class="col-md-9">
 		<div class="block container">blabla</div>
 	</div>
 
